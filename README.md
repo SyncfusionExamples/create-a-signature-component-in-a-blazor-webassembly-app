@@ -35,7 +35,7 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 ### User Interaction
 
 The Signature component supports various interaction like Undo, Redo, Clear, Disabled, and ReadOnly and Every changes occurred in signature can be taken as a snap and saved to collection for handling the above
- [user interactions](https://blazor.syncfusion.com/documentation/signature/user-interaction?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
+[user interactions](https://blazor.syncfusion.com/documentation/signature/user-interaction?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples).
 
 ### Themes
 
@@ -62,7 +62,7 @@ The Blazor Signature Pad supports several built-in themes such as Tailwind CSS, 
 
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Signature, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Signature, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
