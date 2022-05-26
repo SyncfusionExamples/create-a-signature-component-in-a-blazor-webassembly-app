@@ -50,11 +50,13 @@ The Blazor Signature Pad supports several built-in themes such as Tailwind CSS, 
 
 [Documentation](https://blazor.syncfusion.com/documentation/signature/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
 
-[Online example](https://blazor.syncfusion.com/demos/signature/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
+[View Demo](https://github.com/SyncfusionExamples/create-a-signature-component-in-a-blazor-webassembly-app?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
+
+[Online example](https://blazor.syncfusion.com/demos/signature/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/signature?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)
 
