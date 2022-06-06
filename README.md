@@ -12,7 +12,7 @@ To run this application, you need to first clone or download the ‘create a sig
 
 ## Further help
 
-To get more help, check the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples).
+To get more help, check the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
 
 ## Features and Benefits
 
