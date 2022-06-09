@@ -34,8 +34,7 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 
 ### User Interaction
 
-The Signature component supports various interaction like Undo, Redo, Clear, Disabled, and ReadOnly and Every changes occurred in signature can be taken as a snap and saved to collection for handling the above
-[user interactions](https://blazor.syncfusion.com/documentation/signature/user-interaction?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples).
+The Signature component supports various interaction like Undo, Redo, Clear, Disabled, and ReadOnly and Every changes occurred in signature can be taken as a snap and saved to collection for handling the above [user interactions](https://blazor.syncfusion.com/documentation/signature/user-interaction?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples).
 
 ### Themes
 
