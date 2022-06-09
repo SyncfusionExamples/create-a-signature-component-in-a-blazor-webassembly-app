@@ -18,7 +18,7 @@ To get more help, check the [ASP.NET Core Blazor documentation](https://docs.mic
 
 ### Drawing
 
-[Draw](https://blazor.syncfusion.com/documentation/signature/draw?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples)the given text as a signature using different font families and font sizes.
+[Draw](https://blazor.syncfusion.com/documentation/signature/draw?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples) the given text as a signature using different font families and font sizes.
 
 ### Saving
 
