@@ -2,13 +2,16 @@
 
 The [Blazor Signature](https://www.syncfusion.com/blazor-components/blazor-signature?utm_source=github&utm_medium=listing&utm_campaign=blazor-signature-github-samples) is graphical interface that allows users to draw smooth signatures as vector outline strokes using variable width Bezier curve interpolation. A quick-start project that teaches you how to add a Syncfusion Blazor Signature component to a Blazor WebAssembly app. Also, you will learn how to customize the background color, stroke color and stroke width in the Signature component.
 
-## Project prerequisites
-Make sure you have the compatible version of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2022 (version 17.0+)]( https://visualstudio.microsoft.com/downloads)
-* [.NET Core SDK 6.0+](https://dotnet.microsoft.com/download/dotnet-core/6.0)
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone or download the ‘create a signature component in a blazor webassembly app’ repository and then open it in Visual Studio 2022. Now, build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 
